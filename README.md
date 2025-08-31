@@ -36,8 +36,9 @@ pip install requests python-dotenv pygame customtkinter
 ```
 ---
 ### Run the App:
-
+```
 python main.py
 
+```
 
 
