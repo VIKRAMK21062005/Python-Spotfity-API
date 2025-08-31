@@ -44,6 +44,14 @@ pip install requests python-dotenv pygame customtkinter
 python main.py
 ```
 
+## ScreenShot:
 
+### Dashboard:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c077f12-5f47-48d8-8db1-b1c0383a2961" />
+
+### Search Bar:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee3459a1-7c15-4e91-b9c0-943370019c75" />
 
 
