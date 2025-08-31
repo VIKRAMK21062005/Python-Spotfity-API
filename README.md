@@ -29,11 +29,14 @@ Python_Spotify-API/
 ## ⚙️ Installation & Setup
 
 ### 1. Install Requirements
-```bash
+```
+bash
+```
 pip install requests python-dotenv pygame customtkinter
-
+```
 ---
 ### Run the App:
 
 python main.py
+
 
